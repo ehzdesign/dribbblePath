@@ -1,0 +1,20 @@
+{
+  "name": "dribbbleBucket",
+  "authors": [
+    "91.eahz@gmail.com"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jribbble": "^2.0.4"
+  }
+}
